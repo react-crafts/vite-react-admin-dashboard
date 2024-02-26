@@ -1,5 +1,12 @@
+// MATERAIL UI
+import { Box, Typography } from "@mui/material";
+
 function App() {
-  return <div>Hello dashboard</div>;
+  return (
+    <Box>
+      <Typography variant="h2">Hello dashboard</Typography>
+    </Box>
+  );
 }
 
 export default App;
