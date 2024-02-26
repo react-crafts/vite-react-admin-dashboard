@@ -1,1 +1,1 @@
-# vite-react-styled-moodle-template
+# vite-react-styled-admin-template
